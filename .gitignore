@@ -1,5 +1,8 @@
 build/
-signal_system
-.vscode/
 *.o
-*.swp
+
+signal_system
+signal_sender
+signal_receiver
+
+.vscode/
