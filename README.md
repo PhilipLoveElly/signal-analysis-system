@@ -13,7 +13,7 @@ A Linux-based real-time signal processing framework implemented in C++.
 - Thread pool parallel execution
 - Throughput benchmarking
 
-##Architecture
+## Architecture
 
 Producer
 ↓
@@ -29,7 +29,7 @@ Thread Pool
 ↓
 FFT + RMS
 
-##Benchmark
+## Benchmark
 Workers	Average Runtime
 1	      20.2 ms
 2	      10.7 ms
