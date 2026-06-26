@@ -39,7 +39,7 @@ Workers	Average Runtime
 16	    7.2 ms
 32	    8.1 ms
 
-##Future Work
+## Future Work
 Lock-Free Queue
 CPU Affinity
 SIMD / FFTW optimization
