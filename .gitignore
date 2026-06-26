@@ -1,0 +1,5 @@
+build/
+signal_system
+.vscode/
+*.o
+*.swp
